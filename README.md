@@ -1,2 +1,3 @@
 # acquaint
-to get acquainted with GitHub
+To get acquainted with GitHub
+Adding more changes
